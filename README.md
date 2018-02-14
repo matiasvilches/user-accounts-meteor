@@ -27,10 +27,8 @@ Instalación:
 
 3. Ingresar los siguientes comandos.
   	```
-  	meteor update
   	meteor npm install
   	meteor npm install --save @babel/runtime
-  	meteor npm install --save bcrypt
   	meteor
   	```
 
@@ -80,13 +78,11 @@ Installation:
   	```
 
 3. Execute the following commands.
-  	```
-  	meteor update
-  	meteor npm install
-  	meteor npm install --save @babel/runtime
-  	meteor npm install --save bcrypt
-  	meteor
-  	```
+    ```
+    meteor npm install
+    meteor npm install --save @babel/runtime
+    meteor
+    ```
 
 Usage
 ----
