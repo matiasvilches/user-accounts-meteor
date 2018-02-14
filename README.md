@@ -1,7 +1,7 @@
 User Accounts Meteor
 =============
 
-![](users-home.png)
+![](img/users-home.png)
 
 **Spanish** / English
 
@@ -39,19 +39,19 @@ Uso
 
 1. Para poder manipular correctamente la aplicación primero deberás crear una cuenta. Luego de ingresar tienes que dirigirte a "Dashboard".
 
-![](users-1.png)
+![](img/users-1.png)
 
 2. Para tener acceso a vizualizar los usuarios registrados deberás modificar tu cuenta a admin. Presiona "CTRL + M" para abrir "Mongol", dale a "Update" para poder editar la cuenta. Agrega "admin" en "roles" y dale a guardar.
 
-![](users-2.png)
+![](img/users-2.png)
 
 3. Listo, ya eres administrador. Ahora dirigete a la barra izquierda y presiona "Users Management". Ahí podrás administrar todas las cuentas de usuario que hay registradas en la app.
 
-![](users-3.png)
+![](img/users-3.png)
 
 4. Para modificar una cuenta normal a administrador o eliminar un usuario normal, deberás darle al "ID" del usuario para que muestre las opciones.
 
-![](users-4.png)
+![](img/users-4.png)
 
 5. Mira el código y aprende, eso es bueno :p
 
@@ -93,18 +93,18 @@ Usage
 
 1. In order to properly handle the application you must first create an account. After entering you have to go to "Dashboard".
 
-![](users-1.png)
+![](img/users-1.png)
 
 2. To have access to visualize registered users you will have to modify your account to admin. Press "CTRL + M" to open "Mongol", click "Update" to edit the account. Add "admin" in "roles" and save.
 
-![](users-2.png)
+![](img/users-2.png)
 
 3. Ready, you are an administrator. Now go to the left bar and press "Users Management". There you can manage all the user accounts registered in the app.
 
-![](users-3.png)
+![](img/users-3.png)
 
 4. To modify a normal account to administrator or delete a normal user, you must give the user "ID" to show the options.
 
-![](users-4.png)
+![](img/users-4.png)
 
 5. Look at the code and learn, that's good: p
